@@ -103,7 +103,7 @@ Instead of patching game binaries or fighting with fragile reflection hacks, mod
 ### For Players (installing the framework + mods)
  
 1. Close Data Center if it's currently running.
-2. Download the latest `Hypervisor-Installer.zip` from the [Releases page](https://github.com/hypervisor/hypervisor/releases).
+2. Download the latest `Hypervisor.zip` from the [Releases page](https://github.com/hypervisor/hypervisor/releases).
 3. Extract the archive into your Data Center install directory (the folder containing `DataCenter.exe`).
 5. Launch Data Center — you should see a `Hypervisor vX.X.X` watermark on the main menu.
 6. Drop mod folders into the `Mods/` directory created by the installer:
