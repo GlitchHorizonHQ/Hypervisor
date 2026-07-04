@@ -6,7 +6,7 @@
 ## `AssemblySync`
 **`AssemblySync`** is a graphical utility for synchronizing and refreshing game assembly references. It provides a simple, user-friendly interface for updating project reference data without needing to use the command line.
 
-> ![NOTE]
+> [!NOTE]
 > AssemblySync will automatically create a lib folder for you, when syncing files to the repository folder
 
 ![What the GUI looks like for AssemblySync](./assets/image.png)
