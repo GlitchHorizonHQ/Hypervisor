@@ -3,13 +3,14 @@
 <h1>Hypervisor</h1>
  
 <p><em>The community modding framework for <strong>Data Center</strong></em></p>
-<img src="https://img.shields.io/github/actions/workflow/status/hypervisor/hypervisor/build.yml?branch=main&style=flat-square" alt="Build Status"/>
-<img src="https://img.shields.io/github/v/release/hypervisor/hypervisor?style=flat-square" alt="Latest Release"/>
-<img src="https://img.shields.io/github/license/hypervisor/hypervisor?style=flat-square" alt="License"/>
-<img src="https://img.shields.io/discord/000000000000000000?style=flat-square&label=discord&logo=discord" alt="Discord"/>
-<img src="https://img.shields.io/github/downloads/hypervisor/hypervisor/total?style=flat-square" alt="Downloads"/>
+<img src="https://img.shields.io/github/actions/workflow/status/GlitchHorizonHQ/Hypervisor/build.yml?branch=main&style=flat-square" alt="Build Status"/>
+<img src="https://img.shields.io/github/v/release/GlitchHorizonHQ/Hypervisor?style=flat-square" alt="Latest Release"/>
+<img src="https://img.shields.io/github/license/GlitchHorizonHQ/Hypervisor?style=flat-square" alt="License"/>
+<img src="https://img.shields.io/discord/1522707753267892275?style=flat-square&label=discord&logo=discord" alt="Discord"/>
+<img src="https://img.shields.io/github/downloads/GlitchHorizonHQ/Hypervisor/total?style=flat-square" alt="Downloads"/>
 </div>
 <br/>
+
 > Hypervisor is a runtime modding layer and API for **Data Center**, giving modders safe, structured hooks into racks, hardware, cabling, contracts, and the game's economy — without touching a single line of the base game's assemblies.
  
 ## Table of Contents
@@ -93,6 +94,7 @@ Instead of patching game binaries or fighting with fragile reflection hacks, mod
     </tr>
   </tbody>
 </table>
+
 ## Installation
  
 ### For Players (installing the framework + mods)
@@ -114,8 +116,8 @@ DataCenter/
  
 ```bash
 # Clone the repository
-git clone https://github.com/hypervisor/hypervisor.git
-cd hypervisor
+git clone https://github.com/GlitchHorizonHQ/Hypervisor.git
+cd Hypervisor
  
 # Restore dependencies
 dotnet restore
@@ -267,6 +269,7 @@ UI.Overlay.RegisterHudElement(new HudElement
  
 Panels and overlays are non-destructive — they layer on top of existing UI rather than replacing it.
 </details>
+
 ## Creating Your First Mod
  
 This walkthrough builds a mod that adds a new low-power "eco" server unit and tracks how many are deployed.
@@ -353,6 +356,7 @@ This walkthrough builds a mod that adds a new low-power "eco" server unit and tr
    With the game running and hot-reload enabled, saving the manifest or DLL will trigger an automatic reload — no restart needed.
  
 7. **Package for release** by zipping the mod folder (`mod.json` + compiled DLL) and sharing it, or submitting it to the community mod index.
+
 ## Mod Manifest Reference
  
 <table>
@@ -415,6 +419,7 @@ This walkthrough builds a mod that adds a new low-power "eco" server unit and tr
     </tr>
   </tbody>
 </table>
+
 ## Folder Structure
  
 **Hypervisor framework install:**
@@ -460,35 +465,37 @@ Contributions are welcome, whether that's bug fixes, new API surface, documentat
 - Follow the existing C# style conventions (`dotnet format` is run in CI — please run it locally before opening a PR).
 - New public API additions should include XML doc comments and, where practical, a usage example in `/docs`.
 - Please open an issue to discuss significant API changes before submitting a large PR.
+
 ## Community & Support
  
-- 💬 [Discord Server](https://discord.gg/your-invite-here) — general chat, modding help, and release announcements
-- 🗣️ [Community Forum](https://forum.example.com/hypervisor) — longer-form discussion and mod showcases
+- 💬 [Discord Server](https://discord.gg/mVHfc7N9S3) — general chat, modding help, and release announcements
+<!-- - 🗣️ [Community Forum](https://forum.example.com/hypervisor) — longer-form discussion and mod showcases
 - 🐛 [Issue Tracker](https://github.com/hypervisor/hypervisor/issues) — bug reports and feature requests
-- 📖 [Full API Documentation](https://hypervisor.example.com/docs) — generated reference for every namespace
+- 📖 [Full API Documentation](https://hypervisor.example.com/docs) — generated reference for every namespace -->
+
 ## Roadmap
  
-- [x] Core hook system (Hardware, Contracts, Economy, UI)
-- [x] Hot-reloading for scripts and hardware definitions
-- [x] Dependency resolution between mods
+- [ ] Core hook system (Hardware, Contracts, Economy, UI)
+- [ ] Hot-reloading for scripts and hardware definitions
+- [ ] Dependency resolution between mods
 - [ ] In-game mod manager UI overhaul
 - [ ] Scripting support for Lua-based lightweight mods
 - [ ] Official mod index and one-click installer integration
 - [ ] Multiplayer/co-op save compatibility layer
 - [ ] Visual node editor for custom contract logic
+
 ## Credits & Acknowledgments
  
 Hypervisor is an independent, community-built project. Huge thanks to the developers of **Data Center** for creating a game with such a satisfying simulation core to build on, and to everyone in the modding community who has contributed hardware packs, bug reports, and documentation.
  
 ## License
  
-<img src="https://img.shields.io/github/license/hypervisor/hypervisor?style=flat-square" alt="License badge"/>
+<img src="https://img.shields.io/github/license/GlitchHorizonHQ/Hypervisor?style=flat-square" alt="License badge"/>
 Hypervisor is released under the **MIT License**. See [`LICENSE`](LICENSE) for the full text. You are free to use, modify, and distribute the framework and your own mods built on it, provided attribution is retained.
  
 ---
  
 <div align="center">
-[⬆ Back to top](#hypervisor)
  
 <sub>Hypervisor is a fan-made, unofficial project and is not affiliated with, endorsed by, or sponsored by the developers or publisher of Data Center.</sub>
  
