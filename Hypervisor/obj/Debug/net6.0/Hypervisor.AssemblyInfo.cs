@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hypervisor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+004ceac4ea03f3f20b2c7f52cb189bbabfc1e268")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+686e337095d0104723be9b348905695c89eefd34")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hypervisor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hypervisor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
