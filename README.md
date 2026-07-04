@@ -57,8 +57,11 @@ Instead of patching game binaries or fighting with fragile reflection hacks, mod
 - 🗂️ **Mod packaging & discovery** — drop-in folder structure, no manual DLL/script registration
 - 📝 **Structured logging** — per-mod log channels for easier debugging
 ## Compatibility
+
+> [!IMPORTANT]
+> We currently don't know, the compatibility of **Hypervisor** Modding Framework for the game, but will update once we've checked that it works!
  
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Data Center Version</th>
@@ -93,7 +96,7 @@ Instead of patching game binaries or fighting with fragile reflection hacks, mod
       <td>Pre-dates Hypervisor's public API</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## Installation
  
@@ -102,7 +105,6 @@ Instead of patching game binaries or fighting with fragile reflection hacks, mod
 1. Close Data Center if it's currently running.
 2. Download the latest `Hypervisor-Installer.zip` from the [Releases page](https://github.com/hypervisor/hypervisor/releases).
 3. Extract the archive into your Data Center install directory (the folder containing `DataCenter.exe`).
-4. Run `Hypervisor_Setup.exe` (or `./setup.sh` on Linux/macOS) and follow the prompts.
 5. Launch Data Center — you should see a `Hypervisor vX.X.X` watermark on the main menu.
 6. Drop mod folders into the `Mods/` directory created by the installer:
 ```bash
@@ -112,6 +114,7 @@ DataCenter/
 ```
  
 7. Start (or restart) the game. Installed mods are listed and can be toggled from **Main Menu → Mods**.
+
 ### For Developers (building from source)
  
 ```bash
@@ -461,7 +464,6 @@ YourModName/
  
 Contributions are welcome, whether that's bug fixes, new API surface, documentation, or examples.
  
-- Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full workflow, branching model, and PR checklist.
 - Follow the existing C# style conventions (`dotnet format` is run in CI — please run it locally before opening a PR).
 - New public API additions should include XML doc comments and, where practical, a usage example in `/docs`.
 - Please open an issue to discuss significant API changes before submitting a large PR.
@@ -469,9 +471,7 @@ Contributions are welcome, whether that's bug fixes, new API surface, documentat
 ## Community & Support
  
 - 💬 [Discord Server](https://discord.gg/mVHfc7N9S3) — general chat, modding help, and release announcements
-<!-- - 🗣️ [Community Forum](https://forum.example.com/hypervisor) — longer-form discussion and mod showcases
-- 🐛 [Issue Tracker](https://github.com/hypervisor/hypervisor/issues) — bug reports and feature requests
-- 📖 [Full API Documentation](https://hypervisor.example.com/docs) — generated reference for every namespace -->
+- 🐛 [Issue Tracker](https://github.com/GlitchHorizonHQ/Hypervisor/issues) — bug reports and feature requests
 
 ## Roadmap
  
@@ -491,7 +491,8 @@ Hypervisor is an independent, community-built project. Huge thanks to the develo
 ## License
  
 <img src="https://img.shields.io/github/license/GlitchHorizonHQ/Hypervisor?style=flat-square" alt="License badge"/>
-Hypervisor is released under the **MIT License**. See [`LICENSE`](LICENSE) for the full text. You are free to use, modify, and distribute the framework and your own mods built on it, provided attribution is retained.
+
+Hypervisor is released under the **MIT License**. See [LICENSE](LICENSE) for the full text. You are free to use, modify, and distribute the framework and your own mods built on it, provided attribution is retained.
  
 ---
  
