@@ -1,4 +1,8 @@
 lib/references/MelonLoader
+
 Hypervisor/bin
 Hypervisor/obj
+DataCenterModLoader/bin
+DataCenterModLoader/obj
+
 .vs

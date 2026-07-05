@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="DataCenterModLoader/DataCenterModLoader.csproj" Id="bc143186-1c05-40f3-861c-e43141ae7fb3" />
   <Project Path="Hypervisor/Hypervisor.csproj" />
 </Solution>
