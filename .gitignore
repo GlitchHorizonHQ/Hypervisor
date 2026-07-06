@@ -1,8 +1,6 @@
 lib/references/MelonLoader
 
-Hypervisor/bin
-Hypervisor/obj
-DataCenterModLoader/bin
-DataCenterModLoader/obj
+source/Hypervisor/bin
+source/Hypervisor/obj
 
 .vs

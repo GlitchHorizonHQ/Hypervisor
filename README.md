@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://placehold.co/900x220/1a1a2e/ffffff?text=Hypervisor" alt="Hypervisor banner" width="900"/>
-<h1>Hypervisor</h1>
+<img src="https://github.com/GlitchHorizonHQ/Hypervisor/tree/main/.github/hypervisor.png" alt="Hypervisor banner" width="900"/>
  
 <p><em>The community modding framework for <strong>Data Center</strong></em></p>
 <img src="https://img.shields.io/github/actions/workflow/status/GlitchHorizonHQ/Hypervisor/build.yml?branch=main&style=flat-square" alt="Build Status"/>

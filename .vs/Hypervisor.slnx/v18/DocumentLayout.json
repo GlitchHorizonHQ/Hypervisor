@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC143186-1C05-40F3-861C-E43141AE7FB3}|DataCenterModLoader\\DataCenterModLoader.csproj|e:\\projects\\glitchhorizonhq\\hypervisor\\datacentermodloader\\gamehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC143186-1C05-40F3-861C-E43141AE7FB3}|DataCenterModLoader\\DataCenterModLoader.csproj|solutionrelative:datacentermodloader\\gamehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC143186-1C05-40F3-861C-E43141AE7FB3}|DataCenterModLoader\\DataCenterModLoader.csproj|e:\\projects\\glitchhorizonhq\\hypervisor\\datacentermodloader\\gameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC143186-1C05-40F3-861C-E43141AE7FB3}|DataCenterModLoader\\DataCenterModLoader.csproj|solutionrelative:datacentermodloader\\gameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66CBFB1E-13CE-33AC-F457-53496705662C}|Hypervisor\\Hypervisor.csproj|e:\\projects\\glitchhorizonhq\\hypervisor\\hypervisor\\references\\referencescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66CBFB1E-13CE-33AC-F457-53496705662C}|Hypervisor\\Hypervisor.csproj|solutionrelative:hypervisor\\references\\referencescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66CBFB1E-13CE-33AC-F457-53496705662C}|Hypervisor\\Hypervisor.csproj|e:\\projects\\glitchhorizonhq\\hypervisor\\hypervisor\\hypervisor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{66CBFB1E-13CE-33AC-F457-53496705662C}|Hypervisor\\Hypervisor.csproj|solutionrelative:hypervisor\\hypervisor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{395C5075-EC5F-408F-B081-C4D451B719CB}|Hypervisor\\Hypervisor.csproj|e:\\projects\\glitchhorizonhq\\hypervisor\\hypervisor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395C5075-EC5F-408F-B081-C4D451B719CB}|Hypervisor\\Hypervisor.csproj|solutionrelative:hypervisor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameHooks.cs",
-              "DocumentMoniker": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\DataCenterModLoader\\GameHooks.cs",
-              "RelativeDocumentMoniker": "DataCenterModLoader\\GameHooks.cs",
-              "ToolTip": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\DataCenterModLoader\\GameHooks.cs",
-              "RelativeToolTip": "DataCenterModLoader\\GameHooks.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T13:09:53.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameAPI.cs",
-              "DocumentMoniker": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\DataCenterModLoader\\GameAPI.cs",
-              "RelativeDocumentMoniker": "DataCenterModLoader\\GameAPI.cs",
-              "ToolTip": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\DataCenterModLoader\\GameAPI.cs",
-              "RelativeToolTip": "DataCenterModLoader\\GameAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T12:46:33.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReferenceScanner.cs",
-              "DocumentMoniker": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\References\\ReferenceScanner.cs",
-              "RelativeDocumentMoniker": "Hypervisor\\References\\ReferenceScanner.cs",
-              "ToolTip": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\References\\ReferenceScanner.cs",
-              "RelativeToolTip": "Hypervisor\\References\\ReferenceScanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T11:28:57.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Hypervisor",
-              "DocumentMoniker": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\Hypervisor.csproj",
-              "RelativeDocumentMoniker": "Hypervisor\\Hypervisor.csproj",
-              "ToolTip": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\Hypervisor.csproj",
-              "RelativeToolTip": "Hypervisor\\Hypervisor.csproj",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\Class1.cs",
+              "RelativeDocumentMoniker": "Hypervisor\\Class1.cs",
+              "ToolTip": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\Class1.cs",
+              "RelativeToolTip": "Hypervisor\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-05T10:34:37.754Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T11:55:15.932Z",
               "EditorCaption": ""
             }
           ]
