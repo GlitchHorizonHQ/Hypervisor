@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{395C5075-EC5F-408F-B081-C4D451B719CB}|Hypervisor\\Hypervisor.csproj|e:\\projects\\glitchhorizonhq\\hypervisor\\hypervisor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395C5075-EC5F-408F-B081-C4D451B719CB}|Hypervisor\\Hypervisor.csproj|solutionrelative:hypervisor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395C5075-EC5F-408F-B081-C4D451B719CB}|source\\Hypervisor\\Hypervisor.csproj|e:\\projects\\glitchhorizonhq\\hypervisor\\source\\hypervisor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395C5075-EC5F-408F-B081-C4D451B719CB}|source\\Hypervisor\\Hypervisor.csproj|solutionrelative:source\\hypervisor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\Class1.cs",
-              "RelativeDocumentMoniker": "Hypervisor\\Class1.cs",
-              "ToolTip": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\Hypervisor\\Class1.cs",
-              "RelativeToolTip": "Hypervisor\\Class1.cs",
+              "DocumentMoniker": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\source\\Hypervisor\\Class1.cs",
+              "RelativeDocumentMoniker": "source\\Hypervisor\\Class1.cs",
+              "ToolTip": "E:\\Projects\\GlitchHorizonHQ\\Hypervisor\\source\\Hypervisor\\Class1.cs",
+              "RelativeToolTip": "source\\Hypervisor\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T11:55:15.932Z",
+              "WhenOpened": "2026-07-06T12:54:13.275Z",
               "EditorCaption": ""
             }
           ]
